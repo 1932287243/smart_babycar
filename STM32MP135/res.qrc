@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/music_start.png</file>
+        <file>image/music_pause.png</file>
+        <file>image/music_on_sound.png</file>
+        <file>image/music_off_sound.png</file>
+        <file>image/music_next_push.png</file>
+        <file>image/music_next.png</file>
+        <file>image/music_list.png</file>
+        <file>image/music_before_push.png</file>
+        <file>image/music_before.png</file>
+        <file>image/logo.png</file>
+        <file>image/battery.png</file>
+        <file>image/background.png</file>
+        <file>image/background.jpg</file>
+        <file>image/3.png</file>
+        <file>image/2.png</file>
+        <file>image/1.png</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>

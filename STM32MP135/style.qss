@@ -1,0 +1,180 @@
+QLabel#label{
+    border-image:url(:/image/1.png);
+}
+QLabel#label_2{
+    border-image:url(:/image/2.png);
+}
+QLabel#label_3{
+    border-image:url(:/image/3.png);
+}
+QLabel#label_4{
+    /*font-size:50px;
+    font-family:"New Century Schoolbook" ;
+    font-weight:100*/
+}
+
+QLabel#label_16{
+    font-size:15px;
+    background-color:white;
+}
+
+QLabel{
+    border-radius:10px;
+}
+
+QPushButton#pushButton{
+    background-color:#aadddddd;
+    font-size:28px;
+    border-radius:10px;
+}
+QPushButton#pushButton_2{
+    background-color:#aadddddd;
+    font-size:28px;
+    border-radius:10px;
+}
+QPushButton#pushButton_3{
+    background-color:#aadddddd;
+    font-size:28px;
+    border-radius:10px;
+}
+QPushButton#pushButton:checked{
+    background-color:green;
+    font-size:28px;
+    color:white;
+    border-radius:10px;
+}
+QPushButton#pushButton_2::checked{
+    background-color:green;
+    font-size:28px;
+    color:white;
+    border-radius:10px;
+}
+QPushButton#pushButton_3::checked{
+    background-color:green;
+    font-size:28px;
+    color:white;
+    border-radius:10px;
+}
+QPushButton#pushButton_4{
+    border-image:url(:/image/music_before_push.png);
+}
+QPushButton#pushButton_4:hover{
+    border-image:url(:/image/music_before.png);
+}
+QPushButton#pushButton_5{
+    border-image:url(:/image/music_pause.png);
+}
+QPushButton#pushButton_5:checked{
+    border-image:url(:/image/music_start.png);
+}
+QPushButton#pushButton_6{
+    border-image:url(:/image/music_next_push.png);
+}
+QPushButton#pushButton_6:hover{
+    border-image:url(:/image/music_next.png);
+}
+QPushButton#pushButton_7{
+    border-image:url(:/image/music_on_sound.png);
+}
+QPushButton#pushButton_7:checked{
+    border-image:url(:/image/music_off_sound.png);
+}
+QPushButton#pushButton_8{
+    border-image:url(:/image/music_list.png);
+}
+QPushButton#pushButton_9{
+    border-image:url(:/image/logo.png);
+}
+
+QPushButton#pushButton_10{
+    background-color:#aadddddd;
+    font-size:20px;
+    border-radius:10px;
+}
+
+QPushButton#pushButton_11{
+    background-color:#aadddddd;
+    font-size:20px;
+    border-radius:10px;
+}
+
+QPushButton#pushButton_10::checked{
+    background-color:green;
+    font-size:20px;
+    color:white;
+    border-radius:10px;
+}
+QPushButton#pushButton_11::checked{
+    background-color:green;
+    font-size:20px;
+    color:white;
+    border-radius:10px;
+}
+QPushButton#pushButton_12{
+    background-color:#aadddddd;
+    font-size:20px;
+    border-radius:10px;
+}
+
+QPushButton#pushButton_13{
+    background-color:#aadddddd;
+    font-size:20px;
+    border-radius:10px;
+}
+
+QPushButton#pushButton_12::checked{
+    background-color:green;
+    font-size:20px;
+    color:white;
+    border-radius:10px;
+}
+QPushButton#pushButton_13::checked{
+    background-color:green;
+    font-size:20px;
+    color:white;
+    border-radius:10px;
+}
+QSlider#verticalSlider{
+    background-color:white;
+}
+QSlider#verticalSlider_2{
+    background-color:white;
+}
+
+QWidget#widget_2{
+    background-color:#ffffff;
+    border-radius:20px;
+}
+
+QWidget#widget_3{
+    background-color:#ffffff;
+    border-radius:20px;
+}
+QWidget#widget_6{
+    background-color:#ffffff;
+    border-radius:20px;
+}
+QWidget#widget_7{
+    background-color:#ffffff;
+    border-radius:20px;
+}
+
+
+QProgressBar{
+    border:8px solid #FFFFFF;
+    height:30;
+
+    border-image:url(:/image/battery.png);
+    text-align:center;
+    color:rgb(255,0,255);
+    font:20px;
+    border-radius:10px;
+}
+QProgressBar::chunk{
+    border-radius:5px;
+    border:1px solid black;
+    background-color:skyblue;
+    width:10px;
+    margin:1px;
+}
+
